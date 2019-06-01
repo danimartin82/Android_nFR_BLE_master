@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="color_negro">#000000</color>
+    <color name="color1">#2e2e2e</color>
+    <color name="color2">#3d3d3d</color>
+    <color name="color_touchpad">#789fae</color>
+</resources>
